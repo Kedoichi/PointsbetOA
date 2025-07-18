@@ -36,9 +36,9 @@ dotnet test --verbosity normal
 # Test Coverage
 The solution includes comprehensive unit tests covering:
 
-✅ Basic functionality - Single and multiple items
-✅ Different quote types - Double quotes, single quotes, empty quotes, null quotes
-✅ Edge cases - Null arrays, empty arrays, null items in arrays
-✅ Special characters - Items with spaces, commas, and special characters
-✅ Performance - Large arrays (1000+ items)
-✅ Error handling - Proper exception throwing with meaningful messages
+- Basic functionality - Single and multiple items
+- Different quote types - Double quotes, single quotes, empty quotes, null quotes
+- Edge cases - Null arrays, empty arrays, null items in arrays
+- Special characters - Items with spaces, commas, and special characters
+- Performance - Large arrays (1000+ items)
+- Error handling - Proper exception throwing with meaningful messages
